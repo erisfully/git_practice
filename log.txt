@@ -1,0 +1,5 @@
+commit 81d26c55afc38a0843fa7e42dabfb3b08d88b714
+Author: Ashley <a.clarkem@gmail.com>
+Date:   Thu Jun 12 16:34:09 2014 -0600
+
+    Created .txt file hello
