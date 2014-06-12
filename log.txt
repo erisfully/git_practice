@@ -1,3 +1,15 @@
+commit e674b14d434cc3a31306593885a371a10b1babf0
+Author: Ashley <a.clarkem@gmail.com>
+Date:   Thu Jun 12 16:37:33 2014 -0600
+
+    hello.txt
+
+commit 0adf0f56da580b2cf3f13d47a11bca27c763fdca
+Author: Ashley <a.clarkem@gmail.com>
+Date:   Thu Jun 12 16:35:31 2014 -0600
+
+    log.txt
+
 commit 81d26c55afc38a0843fa7e42dabfb3b08d88b714
 Author: Ashley <a.clarkem@gmail.com>
 Date:   Thu Jun 12 16:34:09 2014 -0600
